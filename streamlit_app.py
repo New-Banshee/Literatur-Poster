@@ -10,7 +10,7 @@ st.markdown("""
 
 ### Pflegerische Unterstützungsbedarfe von An- und Zugehörigen ehemaliger Intensivpatientinnen und –patienten nach erfolgreicher eCPR
 
-**Autorin:** Jennifer, Zimmermann B. Sc.
+**Autorin:** Jennifer, Zimmermann B. Sc., Prof.in Dr. in Inge Eberl
 """)
 
 # --- Daten laden -------------------------------------------------------------
