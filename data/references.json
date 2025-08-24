@@ -1,171 +1,147 @@
 [
   {
-    "id": 1,
-    "short": "Davidson JE, Jones C, Bienvenu OJ (2012) Post‑ICU syndrome‑family.",
-    "full": "Davidson, J. E., Jones, C. & Bienvenu, O. J. (2012). Family response to critical illness: postintensive care syndrome-family. Critical Care Medicine, 40(2), 618–624. https://doi.org/10.1097/CCM.0b013e318236ebf9",
-    "doi": "10.1097/CCM.0b013e318236ebf9",
+    "id": "1",
+    "short": "Davidson et al. (2012) – Family response to critical illness",
+    "full": "Davidson, J. E., Jones, C. & Bienvenu, O. J. (2012). Family response to critical illness: postintensive care syndrome-family. Critical Care Medicine, 40(2), 618–624.",
     "url": "https://doi.org/10.1097/CCM.0b013e318236ebf9"
   },
   {
-    "id": 2,
-    "short": "Haines KJ et al. (2015) Psychosocial outcomes in ICU caregivers.",
-    "full": "Haines, K. J., Denehy, L., Skinner, E. H., Warrillow, S. & Berney, S. (2015). Psychosocial outcomes in informal caregivers of the critically ill: a systematic review. Critical Care Medicine, 43(5), 1112–1120. https://doi.org/10.1097/CCM.0000000000000865",
-    "doi": "10.1097/CCM.0000000000000865",
+    "id": "2",
+    "short": "Haines et al. (2015) – Psychosocial outcomes in caregivers",
+    "full": "Haines, K. J., Denehy, L., Skinner, E. H., Warrillow, S. & Berney, S. (2015). Psychosocial outcomes in informal caregivers of the critically ill: a systematic review. Critical Care Medicine, 43(5), 1112–1120.",
     "url": "https://doi.org/10.1097/CCM.0000000000000865"
   },
   {
-    "id": 3,
-    "short": "Fumis RRL et al. (2015) Emotional disorders during/after ICU.",
-    "full": "Fumis, R. R. L., Ranzani, O. T., Martins, P. S. & Schettino, G. (2015). Emotional disorders in pairs of patients and their family members during and after ICU stay. PLoS ONE, 10(1), e0115332. https://doi.org/10.1371/journal.pone.0115332",
-    "doi": "10.1371/journal.pone.0115332",
+    "id": "3",
+    "short": "Fumis et al. (2015) – Emotional disorders in ICU patients and families",
+    "full": "Fumis, R. R. L., Ranzani, O. T., Martins, P. S. & Schettino, G. (2015). Emotional disorders in pairs of patients and their family members during and after ICU stay. PLoS ONE, 10(1), e0115332.",
     "url": "https://doi.org/10.1371/journal.pone.0115332"
   },
   {
-    "id": 4,
-    "short": "Davidson JE, Harvey MA (2016) Patient & Family PICS.",
-    "full": "Davidson, J. E. & Harvey, M. A. (2016). Patient and Family Post-Intensive Care Syndrome. AACN Advanced Critical Care, 27(2), 184–186. https://doi.org/10.4037/aacnacc2016132",
-    "doi": "10.4037/aacnacc2016132",
+    "id": "4",
+    "short": "Davidson & Harvey (2016) – Patient and Family PICS",
+    "full": "Davidson, J. E. & Harvey, M. A. (2016). Patient and Family Post-Intensive Care Syndrome. AACN Advanced Critical Care, 27(2), 184–186.",
     "url": "https://doi.org/10.4037/aacnacc2016132"
   },
   {
-    "id": 5,
-    "short": "Tramm R et al. (2017) Needs of ECMO families.",
-    "full": "Tramm, R., Ilic, D., Murphy, K., Sheldrake, J., Pellegrino, V. & Hodgson, C. (2017). Experience and needs of family members of patients treated with extracorporeal membrane oxygenation. Journal of Clinical Nursing, 26(11-12), 1657–1668. https://doi.org/10.1111/jocn.13566",
-    "doi": "10.1111/jocn.13566",
+    "id": "5",
+    "short": "Tramm et al. (2017) – Experiences of ECMO family members",
+    "full": "Tramm, R., Ilic, D., Murphy, K., Sheldrake, J., Pellegrino, V. & Hodgson, C. (2017). Experience and needs of family members of patients treated with extracorporeal membrane oxygenation. Journal of Clinical Nursing, 26(11-12), 1657–1668.",
     "url": "https://doi.org/10.1111/jocn.13566"
   },
   {
-    "id": 7,
-    "short": "van Beusekom I et al. (2016) Burden on ICU survivor caregivers.",
-    "full": "van Beusekom, I., Bakhshi-Raiez, F., Keizer, N. F. de, Dongelmans, D. A. & van der Schaaf, M. (2016). Reported burden on informal caregivers of ICU survivors: a literature review. Critical Care, 20, 16. https://doi.org/10.1186/s13054-016-1185-9",
-    "doi": "10.1186/s13054-016-1185-9",
+    "id": "6",
+    "short": "Onrust et al. (2022) – Coping strategies in ECMO family members",
+    "full": "Onrust, M., Lansink-Hartgring, A. O., van der Meulen, I., Luttik, M. L., Jong, J. de & Dieperink, W. (2022). Coping strategies, anxiety and depressive symptoms in family members of patients treated with extracorporeal membrane oxygenation: A prospective cohort study. Heart & Lung: The Journal of Critical Care, 52, 146–151.",
+    "url": "https://doi.org/10.1016/j.hrtlng.2022.01.002"
+  },
+  {
+    "id": "7",
+    "short": "van Beusekom et al. (2016) – Burden on caregivers of ICU survivors",
+    "full": "van Beusekom, I., Bakhshi-Raiez, F., Keizer, N. F. de, Dongelmans, D. A. & van der Schaaf, M. (2016). Reported burden on informal caregivers of ICU survivors: a literature review. Critical Care (London, England), 20, 16.",
     "url": "https://doi.org/10.1186/s13054-016-1185-9"
   },
-  
   {
-    "id": 8,
-    "short": "Geyer J, Haan P, Teschner M (2024) Pflegeversicherung & Gender Care Gap.",
-    "full": "Geyer, J., Haan, P. & Teschner, M. (2024). Ausbau der Pflegeversicherung könnte Gender Care Gap in Deutschland reduzieren. https://doi.org/10.18723/diw_wb:2024-7-1",
-    "doi": "10.18723/diw_wb:2024-7-1",
+    "id": "8",
+    "short": "Geyer et al. (2024) – Pflegeversicherung & Gender Care Gap",
+    "full": "Geyer, J., Haan, P. & Teschner, M. (2024). Ausbau der Pflegeversicherung könnte Gender Care Gap in Deutschland reduzieren.",
     "url": "https://doi.org/10.18723/diw_wb:2024-7-1"
   },
   {
-    "id": 9,
-    "short": "Mayer H. (2018) Pflegeforschung kennenlernen (7. Aufl.).",
-    "full": "Mayer, H. (2018). Pflegeforschung kennenlernen: Elemente und Basiswissen (7., überarbeitete Auflage). facultas.",
-    "doi": "",
-    "url": ""
+    "id": "9",
+    "short": "Mayer (2018) – Pflegeforschung kennenlernen",
+    "full": "Mayer, H. (2018). Pflegeforschung kennenlernen: Elemente und Basiswissen (7., überarbeitete Auflage). facultas."
   },
   {
-    "id": 10,
-    "short": "Corbin JM, Strauss A. (1990) Grounded theory criteria.",
-    "full": "Corbin, J. M. & Strauss, A. (1990). Grounded theory research: Procedures, canons, and evaluative criteria. Qualitative Sociology, 13(1), 3–21. https://doi.org/10.1007/BF00988593",
-    "doi": "10.1007/BF00988593",
+    "id": "10",
+    "short": "Corbin & Strauss (1990) – Grounded theory research",
+    "full": "Corbin, J. M. & Strauss, A. (1990). Grounded theory research: Procedures, canons, and evaluative criteria. Qualitative Sociology, 13(1), 3–21.",
     "url": "https://doi.org/10.1007/BF00988593"
   },
   {
-    "id": 11,
-    "short": "Witzel A. (1985) Das problemzentrierte Interview.",
-    "full": "Witzel, A. (1985). Qualitative Forschung in der Psychologie: Grundfragen, Verfahrensweisen, Anwendungsfelder. Das problemzentrierte Interview (G. Jüttemann, Hg.). Beltz. https://doi.org/5630",
-    "doi": "5630",
-    "url": ""
+    "id": "11",
+    "short": "Witzel (1985) – Problemzentriertes Interview",
+    "full": "Witzel, A. (1985). Qualitative Forschung in der Psychologie: Grundfragen, Verfahrensweisen, Anwendungsfelder. Das problemzentrierte Interview (G. Jüttemann, Hg.). Beltz.",
+    "url": "https://doi.org/5630"
   },
   {
-    "id": 12,
-    "short": "Dresing T, Pehl T. (2024) Praxisbuch Interview & Transkription (9. Aufl.).",
-    "full": "Dresing, T. & Pehl, T. (2024). Praxisbuch Interview, Transkription & Analyse - Anleitungen und Regelsysteme für qualitativ Forschende (9. Auflage). dr. dresing & pehl GmbH.",
-    "doi": "",
-    "url": ""
+    "id": "12",
+    "short": "Dresing & Pehl (2024) – Praxisbuch Interview, Transkription & Analyse",
+    "full": "Dresing, T. & Pehl, T. (2024). Praxisbuch Interview, Transkription & Analyse - Anleitungen und Regelsysteme für qualitativ Forschende (9. Auflage). dr. dresing & pehl GmbH."
   },
   {
-    "id": 13,
-    "short": "Braun V, Clarke V. (2012) Thematic analysis.",
-    "full": "Braun, V. & Clarke, V. (2012). Thematic analysis. In H. Cooper, P. M. Camic, D. L. Long, A. T. Panter, D. Rindskopf & K. J. Sher (Hrsg.), APA handbook of research methods in psychology, Vol 2: Research designs: Quantitative, qualitative, neuropsychological, and biological (S. 57–71). American Psychological Association. https://doi.org/10.1037/13620-004",
-    "doi": "10.1037/13620-004",
+    "id": "13",
+    "short": "Braun & Clarke (2012) – Thematic analysis",
+    "full": "Braun, V. & Clarke, V. (2012). Thematic analysis. In H. Cooper, P. M. Camic, D. L. Long, A. T. Panter, D. Rindskopf & K. J. Sher (Hrsg.), APA handbook of research methods in psychology, Vol 2 (S. 57–71). American Psychological Association.",
     "url": "https://doi.org/10.1037/13620-004"
   },
   {
-    "id": 14,
-    "short": "Lincoln YS, Guba EG, Pilotta JJ. (1985) Naturalistic inquiry.",
-    "full": "Lincoln, Y. S., Guba, E. G. & Pilotta, J. J. (1985). Naturalistic inquiry. International Journal of Intercultural Relations, 9(4), 438–439. https://doi.org/10.1016/0147-1767(85)90062-8",
-    "doi": "10.1016/0147-1767(85)90062-8",
+    "id": "14",
+    "short": "Lincoln et al. (1985) – Naturalistic inquiry",
+    "full": "Lincoln, Y. S., Guba, E. G. & Pilotta, J. J. (1985). Naturalistic inquiry. International Journal of Intercultural Relations, 9(4), 438–439.",
     "url": "https://doi.org/10.1016/0147-1767(85)90062-8"
   },
   {
-    "id": 15,
-    "short": "Döring N. (2023) Forschungsmethoden & Evaluation.",
-    "full": "Döring, N. (2023). Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften. Springer Berlin Heidelberg.",
-    "doi": "",
-    "url": ""
+    "id": "15",
+    "short": "Döring (2023) – Forschungsmethoden und Evaluation",
+    "full": "Döring, N. (2023). Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften. Springer Berlin Heidelberg."
   },
   {
-    "id": 16,
-    "short": "Helfferich C. (2011) Qualität qualitativer Daten (4. Aufl.).",
-    "full": "Helfferich, C. (2011). Die Qualität qualitativer Daten (4. Auflage). VS Verlag für Sozialwissenschaften.",
-    "doi": "",
-    "url": ""
+    "id": "16",
+    "short": "Helfferich (2011) – Qualität qualitativer Daten",
+    "full": "Helfferich, C. (2011). Die Qualität qualitativer Daten (4. Auflage). VS Verlag für Sozialwissenschaften."
   },
   {
-    "id": 17,
-    "short": "Deffner T et al. (2024) Angehörige nach Intensivstation: Versorgungslücke.",
-    "full": "Deffner, T., Hierundar, A., Waydhas, C., Riessen, R. & Münch, U. (2024). Angehörige nach Aufenthalt auf der Intensivstation: Eine Versorgungslücke ist zu schließen. Medizinische Klinik ‑ Intensivmedizin und Notfallmedizin, 119(4), 285–290. https://doi.org/10.1007/s00063-024-01130-2",
-    "doi": "10.1007/s00063-024-01130-2",
+    "id": "17",
+    "short": "Deffner et al. (2024) – Angehörige nach Intensivstation",
+    "full": "Deffner, T., Hierundar, A., Waydhas, C., Riessen, R. & Münch, U. (2024). Angehörige nach Aufenthalt auf der Intensivstation: Eine Versorgungslücke ist zu schließen. Medizinische Klinik - Intensivmedizin und Notfallmedizin, 119(4), 285–290.",
     "url": "https://doi.org/10.1007/s00063-024-01130-2"
   },
   {
-    "id": 18,
-    "short": "Wendlandt B et al. (2021) Surrogate PTSD in chronic critical illness.",
-    "full": "Wendlandt, B., Ceppe, A., Cox, C. E., Hanson, L. C., Nelson, J. E. & Carson, S. S. (2021). The Association between Patient Health Status and Surrogate Decision Maker Post‑Traumatic Stress Disorder Symptoms in Chronic Critical Illness. Annals of the American Thoracic Society, 18(11), 1868–1875. https://doi.org/10.1513/AnnalsATS.202010-1300OC",
-    "doi": "10.1513/AnnalsATS.202010-1300OC",
+    "id": "18",
+    "short": "Wendlandt et al. (2021) – PTSD in surrogates of CCI patients",
+    "full": "Wendlandt, B., Ceppe, A., Cox, C. E., Hanson, L. C., Nelson, J. E. & Carson, S. S. (2021). The Association between Patient Health Status and Surrogate Decision Maker Post-Traumatic Stress Disorder Symptoms in Chronic Critical Illness. Annals of the American Thoracic Society, 18(11), 1868–1875.",
     "url": "https://doi.org/10.1513/AnnalsATS.202010-1300OC"
   },
   {
-    "id": 19,
-    "short": "Azoulay E et al. (2005) PTSD risk in ICU families.",
-    "full": "Azoulay, E., Pochard, F., Kentish‑Barnes, N., Chevret, S., Aboab, J., Adrie, C., Annane, D., Bleichner, G., Bollaert, P. E., Darmon, M., Fassier, T., Galliot, R., Garrouste‑Orgeas, M., Goulenok, C., Goldgran‑Toledano, D., Hayon, J., Jourdain, M., Kaidomar, M., Laplace, C., Schlemmer, B. (2005). Risk of post‑traumatic stress symptoms in family members of intensive care unit patients. American Journal of Respiratory and Critical Care Medicine, 171(9), 987–994. https://doi.org/10.1164/rccm.200409-1295OC",
-    "doi": "10.1164/rccm.200409-1295OC",
+    "id": "19",
+    "short": "Azoulay et al. (2005) – PTSD risk in ICU family members",
+    "full": "Azoulay, E., Pochard, F., Kentish-Barnes, N., Chevret, S., Aboab, J., Adrie, C., Annane, D., Bleichner, G., Bollaert, P. E., Darmon, M., Fassier, T., Galliot, R., Garrouste-Orgeas, M., Goulenok, C., Goldgran-Toledano, D., Hayon, J., Jourdain, M., Kaidomar, M., Laplace, C., Schlemmer, B. (2005). Risk of post-traumatic stress symptoms in family members of intensive care unit patients. American Journal of Respiratory and Critical Care Medicine, 171(9), 987–994.",
     "url": "https://doi.org/10.1164/rccm.200409-1295OC"
   },
   {
-    "id": 20,
-    "short": "Kang J. (2023) PICS‑F grounded theory.",
-    "full": "Kang, J. (2023). Being devastated by critical illness journey in the family: A grounded theory approach of post‑intensive care syndrome‑family. Intensive and Critical Care Nursing, 78. https://doi.org/10.1016/j.iccn.2023.103448",
-    "doi": "10.1016/j.iccn.2023.103448",
+    "id": "20",
+    "short": "Kang (2023) – Post-ICU syndrome-family",
+    "full": "Kang, J. (2023). Being devastated by critical illness journey in the family: A grounded theory approach of post-intensive care syndrome-family. Intensive and Critical Care Nursing, 78, N.PAG.",
     "url": "https://doi.org/10.1016/j.iccn.2023.103448"
   },
   {
-    "id": 21,
-    "short": "van den Born‑van Zanten SA et al. (2016) Caregiver strain & PTSD.",
-    "full": "van den Born‑van Zanten, S. A., Dongelmans, D. A., Dettling‑Ihnenfeldt, D., Vink, R. & van der Schaaf, M. (2016). Caregiver strain and posttraumatic stress symptoms of informal caregivers of intensive care unit survivors. Rehabilitation Psychology, 61(2), 173–178. https://doi.org/10.1037/rep0000081",
-    "doi": "10.1037/rep0000081",
+    "id": "21",
+    "short": "van den Born-van Zanten et al. (2016) – Caregiver strain & PTSD",
+    "full": "van den Born-van Zanten, S. A., Dongelmans, D. A., Dettling-Ihnenfeldt, D., Vink, R. & van der Schaaf, M. (2016). Caregiver strain and posttraumatic stress symptoms of informal caregivers of intensive care unit survivors. Rehabilitation Psychology, 61(2), 173–178.",
     "url": "https://doi.org/10.1037/rep0000081"
   },
   {
-    "id": 22,
-    "short": "Wright LM, Leahey M. (2014) Familiengesundheitspflege (Lehrbuch).",
-    "full": "Wright, L. M. & Leahey, M. (2014). Familiengesundheitspflege. Familienzentrierte Pflege: Lehrbuch für Familien‑Assessment und Interventionen (B. Preusse‑Bleuler, Hg.). Huber.",
-    "doi": "",
-    "url": ""
+    "id": "22",
+    "short": "Wright & Leahey (2014) – Familiengesundheitspflege",
+    "full": "Wright, L. M. & Leahey, M. (2014). Familiengesundheitspflege. Familienzentrierte Pflege: Lehrbuch für Familien-Assessment und Interventionen (B. Preusse-Bleuler, Hg.). Huber."
   },
   {
-    "id": 23,
-    "short": "Burgi M, Igl G. (2021) Community Health Nursing Recht in DE.",
-    "full": "Burgi, M. & Igl, G. (2021). Rechtliche Voraussetzungen und Möglichkeiten der Etablierung von Community Health Nursing (CHN) in Deutschland. Nomos Verlagsgesellschaft mbH & Co. KG. https://doi.org/10.5771/9783748924319",
-    "doi": "10.5771/9783748924319",
+    "id": "23",
+    "short": "Burgi & Igl (2021) – Community Health Nursing in Deutschland",
+    "full": "Burgi, M. & Igl, G. (2021). Rechtliche Voraussetzungen und Möglichkeiten der Etablierung von Community Health Nursing (CHN) in Deutschland. Nomos Verlagsgesellschaft mbH & Co. KG.",
     "url": "https://doi.org/10.5771/9783748924319"
   },
   {
-    "id": 24,
-    "short": "Özlü I. (2020) APN Critical Care als interprofessionelle Schnittstelle.",
-    "full": "Özlü, I. (2020). APN Critical Care als interprofessionelle Schnittstelle. intensiv, 28(02), 78–84. https://doi.org/10.1055/a-1088-5161",
-    "doi": "10.1055/a-1088-5161",
+    "id": "24",
+    "short": "Özlü (2020) – APN Critical Care",
+    "full": "Özlü, I. (2020). APN Critical Care als interprofessionelle Schnittstelle. intensiv, 28(02), 78–84.",
     "url": "https://doi.org/10.1055/a-1088-5161"
   },
   {
-    "id": 25,
-    "short": "Drewitz KP et al. (2023) ICU follow‑up clinic (PINA) RCT feasibility.",
-    "full": "Drewitz, K. P., Hasenpusch, C., Bernardi, C., Brandstetter, S., Fisser, C., Pielmeier, K., Rohr, M., Brunnthaler, V., Schmidt, K., Malfertheiner, M. V. & Apfelbacher, C. J. (2023). Piloting an ICU follow‑up clinic to improve health‑related quality of life in ICU survivors after a prolonged intensive care stay (PINA): feasibility of a pragmatic randomised controlled trial. BMC Anesthesiology, 23(1), 344. https://doi.org/10.1186/s12871-023-02255-1",
-    "doi": "10.1186/s12871-023-02255-1",
+    "id": "25",
+    "short": "Drewitz et al. (2023) – ICU follow-up clinic (PINA trial)",
+    "full": "Drewitz, K. P., Hasenpusch, C., Bernardi, C., Brandstetter, S., Fisser, C., Pielmeier, K., Rohr, M., Brunnthaler, V., Schmidt, K., Malfertheiner, M. V. & Apfelbacher, C. J. (2023). Piloting an ICU follow-up clinic to improve health-related quality of life in ICU survivors after a prolonged intensive care stay (PINA): feasibility of a pragmatic randomised controlled trial. BMC Anesthesiology, 23(1), 344.",
     "url": "https://doi.org/10.1186/s12871-023-02255-1"
   }
 ]
